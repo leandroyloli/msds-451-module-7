@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "timestamp_utc": "2026-11-08T19:35:27.242142+00:00",
+  "reference_structure": "Modules 5 and 6: main entry point and README at root; implementation in pipeline; report/data/figures/output/resources folders",
+  "root_files": [
+    ".gitignore",
+    "README.md",
+    "requirements.txt",
+    "run.py"
+  ],
+  "helper_modules": [
+    "pipeline.check_reproduction",
+    "pipeline.import_snapshot",
+    "pipeline.qa_artifacts"
+  ],
+  "study_guide": "resources/STUDY_GUIDE.md",
+  "initial_experiment": "resources/archive/initial-experiment.zip",
+  "dependency_lock": "resources/environment-lock.txt",
+  "unchanged_scientific_code_and_input_result_files": 45,
+  "authored_links_valid": true,
+  "helper_imports_and_roots_valid": true,
+  "pdf_qa_passed": true,
+  "historical_full_checks": "Previously passed 10 mechanism tests and 17 accounting/temporal checks; scientific code and input/result CSVs unchanged in this reorganization.",
+  "derived_csv_note": "Original annual-return CSV bytes preserved after report rendering to avoid rounding-only changes from a different pandas build.",
+  "delivery_format": "Git repository; publication remains separately authorized",
+  "delivery_zip_removed": true,
+  "updated_utc": "2026-11-08T19:40:24.392031+00:00"
+}

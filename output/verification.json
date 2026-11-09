@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "check_count": 17,
+  "checks": [
+    "source hashes, unique positive prices and FX",
+    "historical liquidity rebuilt from past daily observations",
+    "61-price history and equivalent-wrapper selection",
+    "training, yield and signal timestamps",
+    "optimizer ETF cap, funding and empirical CVaR",
+    "ten-month signal independently reconstructed",
+    "fully funded nonnegative holdings and cash",
+    "daily NAV / P&L / interest / fee reconciliation",
+    "independent units rebuilt from trade tickets and fund expense accrual",
+    "actual execution quotes, never stale fills",
+    "cost charged on both buy and sell notionals",
+    "buy-and-hold trades once",
+    "realized decision-date caps, bands and forced exits",
+    "saved metrics independently recomputed",
+    "main accounts reproduced from raw inputs",
+    "future data perturbation leaves earlier execution and wealth unchanged",
+    "truncated-input prefix reproduces earlier wealth"
+  ],
+  "max_daily_accounting_error": 8.881784197001252e-16,
+  "temporal_checks_run": true,
+  "limitation": "Does not certify vendor accuracy, historical holdings constraints, prospective performance or broker fills."
+}

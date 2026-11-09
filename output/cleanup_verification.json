@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "timestamp_utc": "2026-11-08T19:22:12.395416+00:00",
+  "project_root": "C:\\studing\\msds-451-module-7",
+  "active_documentation_language": "English",
+  "source_syntax_checked": true,
+  "authored_markdown_links_checked": true,
+  "original_assignment_links": "Preserved in their original Canvas-source context, not treated as current project-relative links.",
+  "protected_inputs_results_figures_reports_unchanged": 49,
+  "initial_archive": "archive\\initial-experiment.zip",
+  "initial_archive_sha256": "e891d8a1dd83ba40b6c12ff1436d585db40dc84d2b57c8875582329f7e922d9d",
+  "archived_files": 39,
+  "relocation_checks": {
+    "unit_tests_passed": 10,
+    "accounting_temporal_checks_passed": 17,
+    "pdf_qa_passed": true
+  },
+  "removed": [
+    "obsolete duplicate environment",
+    "fund-execution runtime and temporary folders",
+    "clean-reproduction copies",
+    "rendering previews",
+    "Python and Matplotlib caches",
+    "redundant Portuguese review notes"
+  ],
+  "historical_records": "Original source paths and prior validation records retain their historical meaning; current code and README use the project root.",
+  "git_or_canvas_actions": false
+}

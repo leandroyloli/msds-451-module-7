@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "pdf_pages": 11,
+  "all_pages_contact_sheet_reviewed": true,
+  "full_size_detail_pages": [
+    4
+  ],
+  "checks": [
+    "plain-language main narrative",
+    "technical detail grouped in appendices",
+    "readable tables and equations",
+    "no observed clipped or overlapping content",
+    "continuous numbering and clean footers"
+  ],
+  "timestamp_utc": "2026-11-09T00:39:56.578280+00:00",
+  "pdf_sha256": "9810bb672f31e07a3f785a8c39b426ce693f247b28b59ed443ecbe93c9ad9f21"
+}

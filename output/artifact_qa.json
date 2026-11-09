@@ -1,0 +1,65 @@
+{
+  "passed": true,
+  "pdf_pages": 11,
+  "pages": [
+    {
+      "page": 1,
+      "characters": 2137,
+      "text_inside_bounds": true
+    },
+    {
+      "page": 2,
+      "characters": 1571,
+      "text_inside_bounds": true
+    },
+    {
+      "page": 3,
+      "characters": 1022,
+      "text_inside_bounds": true
+    },
+    {
+      "page": 4,
+      "characters": 2542,
+      "text_inside_bounds": true
+    },
+    {
+      "page": 5,
+      "characters": 2757,
+      "text_inside_bounds": true
+    },
+    {
+      "page": 6,
+      "characters": 2538,
+      "text_inside_bounds": true
+    },
+    {
+      "page": 7,
+      "characters": 1947,
+      "text_inside_bounds": true
+    },
+    {
+      "page": 8,
+      "characters": 1674,
+      "text_inside_bounds": true
+    },
+    {
+      "page": 9,
+      "characters": 2406,
+      "text_inside_bounds": true
+    },
+    {
+      "page": 10,
+      "characters": 1202,
+      "text_inside_bounds": true
+    },
+    {
+      "page": 11,
+      "characters": 1141,
+      "text_inside_bounds": true
+    }
+  ],
+  "self_contained_html": true,
+  "metrics_present": true,
+  "pdf_sha256": "9810bb672f31e07a3f785a8c39b426ce693f247b28b59ed443ecbe93c9ad9f21",
+  "visual_review": "Rendered pages require separate visual inspection; automated checks alone do not establish visual quality."
+}

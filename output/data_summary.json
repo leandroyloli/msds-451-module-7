@@ -1,0 +1,10 @@
+{
+  "catalogue_etfs": 61,
+  "raw_price_rows": 221045,
+  "raw_liquidity_rows": 221045,
+  "missing_dollar_volume_rows": 14,
+  "signals": 87,
+  "trend_trade_tickets": 564,
+  "etfs_ever_in_structural_target": 23,
+  "etfs_ever_in_trend_target": 21
+}

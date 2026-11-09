@@ -1,0 +1,146 @@
+{
+  "passed": true,
+  "method": "Only source files and raw inputs copied. No precomputed outputs or derived monthly panels copied.",
+  "source_folder": "tmp\\clean-reproduction-mwa7ikak",
+  "csv_outputs": [
+    {
+      "file": "annual_returns.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "core_account.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "core_events.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "core_trades.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "core_weights.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "exposure_diagnostic.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "initial_hold_account.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "initial_hold_events.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "initial_hold_trades.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "initial_hold_weights.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "metrics.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "optimizer_diagnostics.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "sensitivity.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "signals.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "SPY_account.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "SPY_events.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "SPY_trades.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "SPY_weights.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "subperiod_metrics.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "trend_account.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "trend_events.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "trend_trades.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "trend_weights.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "VT_account.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "VT_events.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "VT_trades.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    },
+    {
+      "file": "VT_weights.csv",
+      "numerically_equal": true,
+      "byte_identical": true
+    }
+  ],
+  "derived_input_panels_equal": true,
+  "conditional_bootstrap_equal": true,
+  "full_temporal_verification_passed": true,
+  "note": "The existing installed Python environment supplies dependencies; no sibling assignment is read by the reproduced run."
+}

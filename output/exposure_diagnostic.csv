@@ -1,0 +1,2 @@
+strategy,exposure,total_return,cagr,volatility,sharpe,max_drawdown,worst_day,annual_turnover,mean_risky_weight,trading_cost_initial_nav,management_cost_initial_nav,observations
+ex_post_static_exposure,0.803444819756393,1.0635026651805841,0.10508280664884206,0.1429196835758375,0.5703573590722608,-0.28333104139161924,-0.08985138816116996,0.6940081002457215,1.0,0.006420965990555132,0.027316699766906663,1823

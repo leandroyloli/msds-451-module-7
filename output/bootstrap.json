@@ -1,0 +1,13 @@
+{
+  "paths": 2000,
+  "mean_block_months": 6,
+  "seed": 4510708,
+  "months": 87,
+  "monthly_sharpe_difference": 0.07125438840104803,
+  "percentile_95_interval": [
+    -0.303090166669197,
+    0.42527765544190865
+  ],
+  "fraction_difference_positive": 0.5915,
+  "interpretation": "Conditional descriptive bootstrap of realized paired returns, not a null p-value, parameter re-selection test or prospective evidence."
+}

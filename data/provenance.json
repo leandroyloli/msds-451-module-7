@@ -1,0 +1,65 @@
+{
+  "source": "Module 6 frozen Yahoo Finance/FRED snapshots; real observations, no simulated study inputs",
+  "price_cutoff": "2026-10-23",
+  "analysis_end": "2026-09-30",
+  "new_market_download": false,
+  "records": [
+    {
+      "file": "universe.csv",
+      "sha256": "7e8983c32974f41f7f6d35596c2dcf26f5df098b20e24a9400faca2a4ad83faf",
+      "bytes": 23775,
+      "source": "C:\\studing\\msds-451-module-6\\data\\universe.csv",
+      "matched_prior_manifest": true
+    },
+    {
+      "file": "daily_prices.csv",
+      "sha256": "18599e8cbe10828a95349d87eb50a0d50e6a29c4a551e56e3495482db82c94c1",
+      "bytes": 15595115,
+      "source": "C:\\studing\\msds-451-module-6\\data\\daily_prices.csv",
+      "matched_prior_manifest": true
+    },
+    {
+      "file": "fx.csv",
+      "sha256": "83280e4a7f58bb54b20025840014a9413eb0fe5c3c1c49987e32a23d449d7076",
+      "bytes": 672248,
+      "source": "C:\\studing\\msds-451-module-6\\data\\fx.csv",
+      "matched_prior_manifest": true
+    },
+    {
+      "file": "daily_liquidity.csv",
+      "sha256": "d1e387e17d32e987d6fe11b4ece085f9814b44252d2c4d34bbfcdfb866635c18",
+      "bytes": 14793548,
+      "source": "C:\\studing\\msds-451-module-6\\data\\daily_liquidity.csv",
+      "matched_prior_manifest": false
+    },
+    {
+      "file": "liquidity_monthly.csv",
+      "sha256": "939f1bc5ccd8fb9296af2e4c0928a619dc7130d73f52ebfadf8ffb9673da8312",
+      "bytes": 220482,
+      "source": "C:\\studing\\msds-451-module-6\\data\\liquidity_monthly.csv",
+      "matched_prior_manifest": false
+    },
+    {
+      "file": "risk_free.csv",
+      "sha256": "7a280c98f24cbead30fc2ea23bdcb31380f172fb875bad9f174046e1ce415681",
+      "bytes": 34179,
+      "source": "C:\\studing\\msds-451-module-6\\data\\risk_free.csv",
+      "matched_prior_manifest": false
+    },
+    {
+      "file": "sources.json",
+      "sha256": "2520b5a97578e2306940c85fd36cf0b4406a0ce0ec092f31240499744d5e3512",
+      "bytes": 32756,
+      "source": "C:\\studing\\msds-451-module-6\\data\\sources.json",
+      "matched_prior_manifest": false
+    },
+    {
+      "file": "liquidity_sources.json",
+      "sha256": "84747a30c14c101340b1d0f3001245ed1b8be324ec36d396e05de08014addb69",
+      "bytes": 8136,
+      "source": "C:\\studing\\msds-451-module-6\\data\\liquidity_sources.json",
+      "matched_prior_manifest": false
+    }
+  ],
+  "note": "Hashes prove copy integrity, not point-in-time vendor accuracy. Liquidity is recomputed from daily observations in the new study."
+}

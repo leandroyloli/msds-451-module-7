@@ -1,0 +1,15 @@
+test_buy_and_sell_cash_identity_random (test_mechanics.Accounting.test_buy_and_sell_cash_identity_random) ... ok
+test_exit_to_cash (test_mechanics.Accounting.test_exit_to_cash) ... ok
+test_initial_purchase_exact (test_mechanics.Accounting.test_initial_purchase_exact) ... ok
+test_two_sided_fees (test_mechanics.Accounting.test_two_sided_fees) ... ok
+test_empirical_cvar_matches_three_worst_of_sixty (test_mechanics.Allocation.test_empirical_cvar_matches_three_worst_of_sixty) ... ok
+test_filtered_zero_requires_full_exit (test_mechanics.Allocation.test_filtered_zero_requires_full_exit) ... ok
+test_inside_bands_does_not_trade (test_mechanics.Allocation.test_inside_bands_does_not_trade) ... ok
+test_negative_excess_has_explicit_minimum_risk_fallback (test_mechanics.Allocation.test_negative_excess_has_explicit_minimum_risk_fallback) ... ok
+test_optimizer_caps_and_funding (test_mechanics.Allocation.test_optimizer_caps_and_funding) ... ok
+test_zero_band_executes_exact_target (test_mechanics.Allocation.test_zero_band_executes_exact_target) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.332s
+
+OK

@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "checked_utc": "2026-11-09T00:53:10.584484+00:00",
+  "repository": "https://github.com/leandroyloli/msds-451-module-7",
+  "visibility": "public",
+  "author_name": "Leandro Ygor Loli",
+  "author_email": "77518998+leandroyloli@users.noreply.github.com",
+  "mechanism_tests": 10,
+  "accounting_temporal_checks": 17,
+  "document_qa_passed": true,
+  "credential_scan_passed": true,
+  "raw_snapshot_bytes_preserved": true,
+  "historical_archive_excluded": true,
+  "canvas_submission_performed": false
+}

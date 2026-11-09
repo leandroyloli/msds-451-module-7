@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "scope": "Editorial changes in report generation and rubric references; no trading logic, data or calculated CSV changes.",
+  "protected_files_unchanged": 42,
+  "before_total_words": 3971,
+  "after_total_words": 3355,
+  "before_main_words": 3048,
+  "after_main_words": 1140,
+  "main_sections": 4,
+  "technical_details_in_appendices": true,
+  "original_scientific_checks": "Previously passed tests and accounting/temporal controls remain applicable; protected scientific files unchanged.",
+  "document_checks_passed": true,
+  "language": "English"
+}
